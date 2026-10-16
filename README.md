@@ -1,4 +1,4 @@
-## Hi there 👋# 💫 About Me:
+## 👋💫 About Me :
 🔭 I’m currently Exploring.<br>🌱 Technical Arsenal<br>💬 Driven by curiosity.<br>⚡ At the intersection of code, intelligence, and innovation.<br>👯 building my way into the future of AI.<br>      and the next generation of software.
 
 
